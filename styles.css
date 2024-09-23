@@ -1,0 +1,27 @@
+body {
+  background-color: grey;
+}
+h1 {
+  color: powderblue;
+}
+h2 {
+  color: yellow;
+}
+p {
+font-weight:normal;
+font-family:verdana;
+}
+.CODE {
+border: 2px solid black;
+color: red;
+background-color: white;
+}
+#ID {
+font-size:160%;
+font-family:Century Gothic;
+background-color: tan;
+}
+ol {
+font-size: 125%;
+font-family:Helvetica;
+}
